@@ -1,30 +1,30 @@
 
-## Project overview<p>&nbsp;</p>
+## **Project overview**
 
-* in order to meet Seattle city's objective of null CO2 emissions by 2050, this project consists of building the model that would predict both the CO2 emissions and the energy consumption of non-residential buildings in the city
+* this project consists of **estimating the model** that would predict both **CO2 emissions** and the **energy consumption** of non-residential **buildings** in the city of **Seattle**
 
-* technically the project addresses regression problems with tabular data
-
-
-
-* the overall performance of the fitted model is robust and the few features it needs as input allow a clear interpretation of the model  <p>&nbsp;</p><p>&nbsp;</p>
-
-
-### Workflow summary<p>&nbsp;</p>
+* thus the project addresses **regression** problems with **tabular data**
 
 
 
-* cleaned the data
+* the overall performance of the **fitted model** is **robust** and the few features it needs as input allow a clear **interpretation** of the defined **model**  <p>&nbsp;
 
-* explored the data, in particular the relationship betweenn features and targets
 
-* implemented feature engineering : selection, transformation and creation of features
+### **Workflow summary**
+
+
+
+* **cleaned** the data
+
+* **explored** the data, in particular the relationship betweenn features and targets
+
+* implemented **feature engineering** : selection, transformation and creation of features
 
 * compared linear vs non-linear estimators on metrics using CV
 
-* optimized XGBoost, RandomForest & SVR estimators using both GridSearchCV and RandomizedSearchCV
+* optimized **XGBoost, RandomForest & SVR** estimators using both **GridSearchCV** and **RandomizedSearchCV**
 
-* predicted test samples target values with optimized XGBoost & interpreted both r2 score and feature importances<p>&nbsp;</p>
+* predicted test samples target values with **optimized XGBoost** & interpreted both **r2** score and **feature importances**<p>&nbsp;</p>
 
 ![](Images/energy_preds.png)<p>&nbsp;</p>
 
