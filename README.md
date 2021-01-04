@@ -12,7 +12,7 @@
 * the overall performance of the **fitted model** is **robust** and the few features it needs as input allow a clear **interpretation** of the defined **model**  <p>&nbsp;
 
 
-### Workflow summary
+## Workflow summary
 
 * **cleaned** the data
 
@@ -40,7 +40,7 @@
 <p>&nbsp;</p>
 
 
-## Detailed workflow<p>&nbsp;</p>
+## Detailed workflow
 
 
 ## **Cleaning**
