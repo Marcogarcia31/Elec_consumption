@@ -1,5 +1,7 @@
 
-## **Project overview**
+# Building sustainable cities
+
+## Project overview
 
 * this project consists of **estimating the model** that would predict both **CO2 emissions** and the **energy consumption** of non-residential **buildings** in the city of **Seattle**
 
@@ -10,9 +12,7 @@
 * the overall performance of the **fitted model** is **robust** and the few features it needs as input allow a clear **interpretation** of the defined **model**  <p>&nbsp;
 
 
-### **Workflow summary**
-
-
+### Workflow summary
 
 * **cleaned** the data
 
